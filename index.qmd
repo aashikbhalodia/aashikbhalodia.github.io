@@ -1,7 +1,23 @@
 ---
-title: "aashikbhalodia.github.io"
+title: "Samantha Csik"
+image: media/headshot.jpeg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/aashikbhalodia/
+    - icon: github
+      text: GitHub
+      href: https://github.com/aashikbhalodia
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/AashikBhalodia
+    - icon: envelope-at
+      text: Email
+      href: mailto:aashik.bhalodia@yale.edu
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+        
