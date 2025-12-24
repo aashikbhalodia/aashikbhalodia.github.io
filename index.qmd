@@ -1,6 +1,6 @@
 ---
-title: "Samantha Csik"
-image: media/headshot.jpeg
+title: "Aashik Bhalodia"
+#image: media/headshot.jpeg
 toc: false
 about: 
   template: jolla
