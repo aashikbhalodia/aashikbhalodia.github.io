@@ -1,2 +1,2 @@
-# aashik.github.io
+# Aashik
 my personal website
