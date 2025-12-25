@@ -3,15 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "aashikbhalodia.github.io"
+  title: ""
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
 
 format:
   html:
+    from: markdown+fenced_divs
     theme:
       - cosmo
       - brand

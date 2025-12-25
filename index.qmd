@@ -1,11 +1,12 @@
 ---
 title: "Aashik Bhalodia"
-#image: media/headshot.jpeg
+image: media/avatar.jpeg
 toc: false
+body-classes: home
 about: 
-  template: jolla
+  template: trestles
   image-shape: round
-  image-width: 17em
+  image-width: 10em
   links:
     - icon: linkedin
       text: LinkedIn
@@ -20,4 +21,13 @@ about:
       text: Email
       href: mailto:aashik.bhalodia@yale.edu
 ---
+
+::: {.column-page}
+
+Right column
+:::
+
+
+        
+
         
