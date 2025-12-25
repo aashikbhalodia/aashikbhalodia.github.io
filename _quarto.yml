@@ -10,6 +10,8 @@ website:
         text: Home
       - publications.qmd
       - blog.qmd
+    background: "#0b1f3a"   # navy blue
+    foreground: "white"
 
 format:
   html:
@@ -17,7 +19,6 @@ format:
     theme:
       - cosmo
       - brand
-    primary: "#0b1f3a"   # navy blue
     css: styles.css
     toc: true
 
