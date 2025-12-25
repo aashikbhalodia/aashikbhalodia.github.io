@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Thoughts",
     "section": "",
-    "text": "About this site"
+    "text": "No matching items"
   },
   {
     "objectID": "index.html",
@@ -12,5 +12,12 @@
     "title": "Aashik Bhalodia",
     "section": "",
     "text": "Right column"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "About this site"
   }
 ]

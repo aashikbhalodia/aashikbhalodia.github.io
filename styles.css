@@ -1,1 +1,17 @@
 /* css styles */
+
+body.home .about-sidebar,
+body.home aside {
+  background-color: #0b1f3a;   /* navy */
+  color: white;
+  padding: 1.5rem;
+  border-radius: 18px;
+}
+
+body.home .about-sidebar a {
+  color: #dbeafe;
+}
+
+body.home .page-columns > aside {
+  box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+}
