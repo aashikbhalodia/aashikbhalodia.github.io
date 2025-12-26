@@ -4,3 +4,31 @@
 body.home .page-columns {
   grid-template-columns: 500px 1fr;
 }
+
+/* Container for the whole publications list */
+.pub-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+/* One publication row */
+.pub-item {
+  display: grid;
+  grid-template-columns: 140px 1fr; /* image | text */
+  gap: 1.25rem;
+  align-items: center;
+}
+
+/* Thumbnail */
+.pub-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+}
+
+/* Citation text */
+.pub-text {
+  line-height: 1.5;
+}
