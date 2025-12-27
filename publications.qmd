@@ -65,8 +65,10 @@ Cohen, C.D., Rousseau, S.T., Bermea, K.C., **Bhalodia, A.**, Lovell, J.P., Zita 
 <div class="pub-text">
 
 
-Bermea, K., **Bhalodia, A.**, Huff, A., Rousseau, S., Adamo, L., *The Role of B Cells in Cardiomyopathy and Heart Failure.* **(2022)** **Curr Cardiol Rep**, 24, 935–946.
+Bermea, K., **Bhalodia, A.**, Huff, A., Rousseau, S., & Adamo, L. **(2022)**. *The Role of B Cells in Cardiomyopathy and Heart Failure*. **Current cardiology reports**, 24(8), 935–946.
 [Link](https://doi.org/10.1007/s11886-022-01722-4)
+
+
 
 </div>
 :::
