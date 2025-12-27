@@ -28,7 +28,6 @@ about:
     - icon: envelope-at
       text: Email
       href: mailto:aashik.bhalodia@yale.edu
-comments: false
   
 ---
 ::: {.column-page}

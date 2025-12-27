@@ -1,14 +1,58 @@
 /* css styles */
 
-/* Home page: make content column wider */
+/* Desktop/tablet: two columns */
+/* Keep the whole content area centered and not too wide */
+/* Center the overall page content on desktop */
+body.home .content,
+body.home main.content,
+body.home .content-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* Desktop/two-column layout: profile sidebar + main content */
 body.home .page-columns {
-  grid-template-columns: 500px 1fr;
+  display: grid;
+  grid-template-columns: clamp(240px, 28vw, 320px) 1fr;
+  gap: 1.5rem;
   align-items: start;
 }
 
-body.home .page-columns > aside {
-  outline: 4px solid red;
+/* Prevent long text/links from forcing overflow in grid */
+body.home .page-columns > main,
+body.home .page-columns > .content {
+  min-width: 0;
+  overflow-wrap: anywhere;
 }
+
+/* (Optional) Keep about links on one line if you want */
+body.home .about-links a {
+  white-space: nowrap;
+}
+
+/* =========================
+   RESPONSIVE: stack earlier
+   ========================= */
+@media (max-width: 1050px) {
+  body.home .page-columns {
+    grid-template-columns: 1fr;
+  }
+
+  /* Center the left/about panel when stacked */
+  body.home .page-columns > aside {
+    justify-self: center;
+    width: min(420px, 100%);
+  }
+
+  /* Center the main content when stacked */
+  body.home .page-columns > main,
+  body.home .page-columns > .content {
+    justify-self: center;
+    width: min(720px, 100%);
+  }
+}
+
 
 /* Container for the whole publications list */
 .pub-list {
