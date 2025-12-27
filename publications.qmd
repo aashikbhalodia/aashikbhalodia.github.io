@@ -18,7 +18,7 @@ Crilly, N.P., Zita, M.D., Beaver, A.K., Sysa-Shah, P., **Bhalodia, A.**, Gabriel
 [![](media/pubs/frontiersimmun.jpg)](https://doi.org/10.3389/fimmu.2024.1327372)
 <div class="pub-text">
 
-Bermea, K. C., Duque, C., Cohen, C. D., **Bhalodia, A.**, Rousseau, S., Lovell, J., Zita, M. D., Mugnier, M. R., Adamo, L. **(2024)** *Myocardial B cells have specific gene expression and predicted interactions in dilated cardiomyopathy and arrhythmogenic right ventricular cardiomyopathy.* Frontiers in Immunology, 15.
+Bermea, K. C., Duque, C., Cohen, C. D., **Bhalodia, A.**, Rousseau, S., Lovell, J., Zita, M. D., Mugnier, M. R., Adamo, L. **(2024)** *Myocardial B cells have specific gene expression and predicted interactions in dilated cardiomyopathy and arrhythmogenic right ventricular cardiomyopathy.* **Frontiers in Immunology**, 15.
 [Link](https://doi.org/10.3389/fimmu.2024.1327372)
 
 </div>
@@ -29,7 +29,7 @@ Bermea, K. C., Duque, C., Cohen, C. D., **Bhalodia, A.**, Rousseau, S., Lovell, 
 [![](media/pubs/oxfordrheum.jpeg)](https://doi.org/10.1093/rheumatology/keae199)
 <div class="pub-text">
 
-**Bhalodia, A.**, Bermea, K., Schmidt, J., Gilotra, N., Barth, A. S., Adamo, L., Paik, J. J. **(2024).** *Increased risk of myocarditis and arrhythmias in anti-Ku-positive scleroderma–myositis overlap patients: a case series.* Rheumatology, Article ID: keae199.
+**Bhalodia, A.**, Bermea, K., Schmidt, J., Gilotra, N., Barth, A. S., Adamo, L., Paik, J. J. **(2024).** *Increased risk of myocarditis and arrhythmias in anti-Ku-positive scleroderma–myositis overlap patients: a case series.* **Rheumatology**, Article ID: keae199.
 [Link](https://doi.org/10.1093/rheumatology/keae199)
 
 </div>
@@ -41,7 +41,7 @@ Bermea, K. C., Duque, C., Cohen, C. D., **Bhalodia, A.**, Rousseau, S., Lovell, 
 <div class="pub-text">
 
 
-Lovell, J.P., Bermea, K., Yu, J., Rousseau, S., Cohen, C.D., **Bhalodia, A.**, Zita M.D., Head, R.D., Blumenthal, R.S., Alharethi, R., Damp, J., Boehmer, J., Alexis, J., McNamara, D.M., Sharma, G., Adamo, L. **(2023)** *Serum Proteomic Analysis of Peripartum Cardiomyopathy Reveals Distinctive Dysregulation of Inflammatory and Cholesterol Metabolism Pathways.* JACC Heart Failure, 11(9) 1231–1242.
+Lovell, J.P., Bermea, K., Yu, J., Rousseau, S., Cohen, C.D., **Bhalodia, A.**, Zita M.D., Head, R.D., Blumenthal, R.S., Alharethi, R., Damp, J., Boehmer, J., Alexis, J., McNamara, D.M., Sharma, G., Adamo, L. **(2023)** *Serum Proteomic Analysis of Peripartum Cardiomyopathy Reveals Distinctive Dysregulation of Inflammatory and Cholesterol Metabolism Pathways.* **JACC Heart Failure**, 11(9) 1231–1242.
 [Link](https://doi.org/10.1016/j.jchf.2023.05.031)
 
 </div>
@@ -53,7 +53,7 @@ Lovell, J.P., Bermea, K., Yu, J., Rousseau, S., Cohen, C.D., **Bhalodia, A.**, Z
 [![](media/pubs/journalimmun.jpeg)](https://doi.org/10.4049/jimmunol.2200924)
 <div class="pub-text">
 
-Cohen, C.D., Rousseau, S.T., Bermea, K.C., **Bhalodia, A.**, Lovell, J.P., Zita M.D., Čiháková, D., Adamo, L. **(2023)** *Myocardial Immune Cells: The Basis of Cardiac Immunology. The Journal of Immunology*, 210(9) 1198-1207.
+Cohen, C.D., Rousseau, S.T., Bermea, K.C., **Bhalodia, A.**, Lovell, J.P., Zita M.D., Čiháková, D., Adamo, L. **(2023)** *Myocardial Immune Cells: The Basis of Cardiac Immunology.* **The Journal of Immunology**, 210(9) 1198-1207.
 [Link](https://doi.org/10.4049/jimmunol.2200924)
 
 </div>
@@ -65,7 +65,7 @@ Cohen, C.D., Rousseau, S.T., Bermea, K.C., **Bhalodia, A.**, Lovell, J.P., Zita 
 <div class="pub-text">
 
 
-Bermea, K., **Bhalodia, A.**, Huff, A., Rousseau, S., Adamo, L., *The Role of B Cells in Cardiomyopathy and Heart Failure.* **(2022)** Curr Cardiol Rep, 24, 935–946.
+Bermea, K., **Bhalodia, A.**, Huff, A., Rousseau, S., Adamo, L., *The Role of B Cells in Cardiomyopathy and Heart Failure.* **(2022)** **Curr Cardiol Rep**, 24, 935–946.
 [Link](https://doi.org/10.1007/s11886-022-01722-4)
 
 </div>
