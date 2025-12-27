@@ -28,16 +28,14 @@ about:
     - icon: envelope-at
       text: Email
       href: mailto:aashik.bhalodia@yale.edu
-
+comments: false
   
 ---
-
+::: {.column-page}
 # Bio
 
-
 I am second year PhD student in Pathology & Molecular Medicine at Yale University. I employ sequence-to-function machine learning models to study the genetic basis of non-coding regulatory elements in the human genome. 
-
-
+:::
 
 
 

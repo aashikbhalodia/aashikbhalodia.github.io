@@ -3,6 +3,11 @@
 /* Home page: make content column wider */
 body.home .page-columns {
   grid-template-columns: 500px 1fr;
+  align-items: start;
+}
+
+body.home .page-columns > aside {
+  outline: 4px solid red;
 }
 
 /* Container for the whole publications list */
@@ -32,3 +37,4 @@ body.home .page-columns {
 .pub-text {
   line-height: 1.5;
 }
+
