@@ -31,7 +31,7 @@ about:
   
 ---
 ::: {.column-page}
-# Bio
+# Bio 
 
 I am second year PhD student in Pathology & Molecular Medicine graduate program at Yale University. I employ sequence-to-function machine learning models to study the genetic basis of non-coding regulatory elements in the human genome. 
 
