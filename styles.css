@@ -53,6 +53,22 @@ body.home .about-links a {
   }
 }
 
+.navbar {
+  min-height: 64px;
+}
+
+/* Resize the logo image */
+.navbar .navbar-brand img {
+  height: 48px !important;   /* try 48–60 */
+  width: auto !important;
+  max-height: none !important;
+}
+
+/* Remove Bootstrap padding that constrains the logo */
+.navbar .navbar-brand {
+  padding-top: 0;
+  padding-bottom: 0;
+}
 
 /* Container for the whole publications list */
 .pub-list {

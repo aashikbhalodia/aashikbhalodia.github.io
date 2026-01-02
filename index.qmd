@@ -12,7 +12,7 @@ image: media/avatar.jpeg
 toc: false
 body-classes: home
 about: 
-  template: trestles
+  template: trestles 
   image-shape: round
   image-width: 10em
   links:
@@ -33,7 +33,12 @@ about:
 ::: {.column-page}
 # Bio
 
-I am second year PhD student in Pathology & Molecular Medicine at Yale University. I employ sequence-to-function machine learning models to study the genetic basis of non-coding regulatory elements in the human genome. 
+I am second year PhD student in Pathology & Molecular Medicine graduate program at Yale University. I employ sequence-to-function machine learning models to study the genetic basis of non-coding regulatory elements in the human genome. 
+
+
+
+Outside of the lab, I love to travel, read, run, and play tennis. I enjoy watching sports (tennis, Ravens, Giants, Orioles, Devils, Real Madrid). Always looking for recommendations for things to do and learn!
+
 :::
 
 
