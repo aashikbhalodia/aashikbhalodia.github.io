@@ -5,8 +5,8 @@ subtitle: |
   Pathology and Molecular Medicine<br>
   <a href="https://garglab.org">Garg Lab</a><br><br>
   Previously at Johns Hopkins University<br>
-  <a href="https://www.hopkinsmedicine.org/heart-vascular-institute/cardiovascular-research/adamo-lab">Adamo Lab</a><br>
-  B.S. Molecular and Cellular Biology, B.A. Classics
+  B.S. Molecular and Cellular Biology, B.A. Classics <br>
+  <a href="https://www.hopkinsmedicine.org/heart-vascular-institute/cardiovascular-research/adamo-lab">Adamo Lab</a>
 
 image: media/avatar.jpeg
 toc: false
