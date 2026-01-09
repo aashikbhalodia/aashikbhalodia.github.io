@@ -9,10 +9,15 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - publications.qmd
-      - blog.qmd
-    background: "#0b1f3a"   # navy blue
+      - href: publications.qmd
+        text: Publications
+      - href: blog.qmd
+        text: Blog
+    background: "#0b1f3a"
     foreground: "white"
+
+  page-footer:
+    center: "© 2026 Aashik Bhalodia"
 
 format:
   html:
