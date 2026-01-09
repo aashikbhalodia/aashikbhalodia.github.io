@@ -31,6 +31,13 @@ body.home .about-links a {
   white-space: nowrap;
 }
 
+/* Home page: style the plain bio paragraph under the title */
+body.home header#title-block-header .quarto-title > p:not(.subtitle) {
+  font-size: 1.2rem;
+  line-height: 1.45;
+  margin-top: 0.25rem;
+}
+
 /* =========================
    RESPONSIVE: stack earlier
    ========================= */
