@@ -4,6 +4,7 @@ project:
 
 website:
   title: ""
+  site-url: https://aashikbhalodia.github.io
   navbar:
     logo: media/logo.png
     right:
