@@ -78,6 +78,50 @@ body.home .about-links a {
   padding-bottom: 0;
 }
 
+/* Blog listing cards */
+.quarto-post,
+.quarto-listing,
+.quarto-listing-container-default {
+  background-color: #0b1f3a;
+  color: #ffffff;
+}
+
+.listing-title a,
+.listing-title a:visited {
+  color: #ffffff !important;
+}
+
+.listing-description,
+.listing-description a,
+.listing-description a:visited {
+  color: rgba(255, 255, 255, 0.85) !important;
+}
+
+.listing-date,
+.listing-author {
+  color: rgba(255, 255, 255, 0.65) !important;
+}
+
+.listing-category {
+  color: #7db8f7 !important;
+  border-color: #7db8f7 !important;
+}
+
+/* Blog sidebar categories */
+.quarto-listing-category .category {
+  color: rgba(255, 255, 255, 0.75) !important;
+}
+.quarto-listing-category .category.active,
+.quarto-listing-category .category:hover {
+  color: #ffffff !important;
+  background-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+/* Divider between posts */
+.quarto-post + .quarto-post {
+  border-top-color: rgba(255, 255, 255, 0.15) !important;
+}
+
 /* Container for the whole publications list */
 .pub-list {
   display: flex;
