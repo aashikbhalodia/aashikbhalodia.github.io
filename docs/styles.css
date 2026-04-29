@@ -1,63 +1,64 @@
 /* css styles */
 
-/* Desktop/tablet: two columns */
-/* Keep the whole content area centered and not too wide */
-/* Center the overall page content on desktop */
-body.home .content,
-body.home main.content,
-body.home .content-container {
-  max-width: 1100px;
-  margin: 0 auto;
-  padding: 0 1rem;
+/* Navy background with white text to match the navbar */
+body,
+body.quarto-light {
+  background-color: #0b1f3a !important;
+  color: #ffffff !important;
 }
 
-/* Desktop/two-column layout: profile sidebar + main content */
-body.home .page-columns {
-  display: grid;
-  grid-template-columns: clamp(240px, 28vw, 320px) 1fr;
-  gap: 1.5rem;
-  align-items: start;
+/* Quarto's main content containers */
+#quarto-content,
+#quarto-document-content,
+.quarto-about-trestles,
+.about-contents,
+.about-entity,
+main.content,
+#quarto-margin-sidebar,
+.sidebar {
+  background-color: #0b1f3a;
+  color: #ffffff;
 }
 
-/* Prevent long text/links from forcing overflow in grid */
-body.home .page-columns > main,
-body.home .page-columns > .content {
+/* Links: light blue so they're visible on dark background */
+a, a:visited {
+  color: #7db8f7;
+}
+a:hover {
+  color: #add4ff;
+}
+
+/* About/social links (LinkedIn, GitHub, etc.) */
+.about-link {
+  color: #ffffff !important;
+  border-color: rgba(255, 255, 255, 0.4) !important;
+}
+.about-link:hover {
+  background-color: rgba(255, 255, 255, 0.12) !important;
+  color: #ffffff !important;
+}
+
+/* Footer */
+.nav-footer {
+  background-color: #0b1f3a;
+  color: rgba(255, 255, 255, 0.7);
+  border-top: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+/* Hide the redundant TOC sidebar on the home page — trestles handles its own layout */
+body.home #quarto-margin-sidebar {
+  display: none;
+}
+
+/* Prevent long text/links from forcing overflow */
+body.home .about-contents {
   min-width: 0;
   overflow-wrap: anywhere;
 }
 
-/* (Optional) Keep about links on one line if you want */
+/* Keep about links on one line */
 body.home .about-links a {
   white-space: nowrap;
-}
-
-/* Home page: style the plain bio paragraph under the title */
-body.home header#title-block-header .quarto-title > p:not(.subtitle) {
-  font-size: 1.2rem;
-  line-height: 1.45;
-  margin-top: 0.25rem;
-}
-
-/* =========================
-   RESPONSIVE: stack earlier
-   ========================= */
-@media (max-width: 1050px) {
-  body.home .page-columns {
-    grid-template-columns: 1fr;
-  }
-
-  /* Center the left/about panel when stacked */
-  body.home .page-columns > aside {
-    justify-self: center;
-    width: min(420px, 100%);
-  }
-
-  /* Center the main content when stacked */
-  body.home .page-columns > main,
-  body.home .page-columns > .content {
-    justify-self: center;
-    width: min(720px, 100%);
-  }
 }
 
 .navbar {
@@ -66,7 +67,7 @@ body.home header#title-block-header .quarto-title > p:not(.subtitle) {
 
 /* Resize the logo image */
 .navbar .navbar-brand img {
-  height: 48px !important;   /* try 48–60 */
+  height: 48px !important;
   width: auto !important;
   max-height: none !important;
 }
@@ -87,7 +88,7 @@ body.home header#title-block-header .quarto-title > p:not(.subtitle) {
 /* One publication row */
 .pub-item {
   display: grid;
-  grid-template-columns: 140px 1fr; /* image | text */
+  grid-template-columns: 140px 1fr;
   gap: 1.25rem;
   align-items: center;
 }
@@ -104,4 +105,3 @@ body.home header#title-block-header .quarto-title > p:not(.subtitle) {
 .pub-text {
   line-height: 1.5;
 }
-
